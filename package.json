@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "This is the code which I've written while learning Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshu Prasad Shukla",
+  "license": "ISC"
+}
